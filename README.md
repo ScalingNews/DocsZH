@@ -10,4 +10,4 @@
 
 ## News 中文资源库
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>释放 Monad 的潜力：区块产出经济学的关键作用 | aPriori </td><td><a href="https://app.gitbook.com/s/OSs7EEWwLCe1NwYciNre/">aPriori Newsletter</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>释放 Monad 的潜力：区块产出经济学的关键作用 | aPriori </td><td><a href="https://app.gitbook.com/s/OSs7EEWwLCe1NwYciNre/newsletter/unlocking-monads-potential-the-critical">释放 Monad 的潜力：区块产出经济学的关键作用</a></td></tr></tbody></table>
