@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
+---
+
 # DocsZH | 区块链前沿资讯中文本地化
 
 ***
