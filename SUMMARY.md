@@ -1,3 +1,3 @@
 # Table of contents
 
-* [主页](README.md)
+* [DocsZH](README.md)
