@@ -1,10 +1,4 @@
----
-description: >-
-  DocsZH is dedicated to localizing cutting-edge blockchain technical in
-  Chinese.
----
-
-# DocsZH
+# DocsZH | Dedicated to localizing cutting-edge blockchain technical in Chinese.
 
 ***
 
