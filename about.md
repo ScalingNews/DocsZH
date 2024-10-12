@@ -5,13 +5,13 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
     visible: false
 ---
 
-# DocsZH Test
+# 关于 DocsZH
 
 test
