@@ -40,7 +40,7 @@ layout:
 
 恭喜，黑夜给了你黑色的眼睛，你用它寻找到了中文。接下来，我们会用一个翻译示例，阐述浏览器的自动翻译有多糟糕。
 
-#### 并不友好的浏览器自动翻译
+### 不友好的浏览器自动翻译
 
 这里，以我们最近翻译的来自[aPriori](https://beta.rootdata.com/zh/Projects/detail/aPriori?k=OTUwMg%3D%3D)项目的技术博客为例，此处为博客节选的原文链接：[段落原文](https://0xapr.substack.com/p/unlocking-monads-potential-the-critical?open=false#%C2%A7one-block-producer-per-slot-block-space-auction)
 
