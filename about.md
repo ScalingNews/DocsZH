@@ -150,7 +150,7 @@ Solv Protocol’s Bitcoin Holdings Is Ranked 7th Among Bitcoin ETFs & Ethereum
 
 ### 下强度：e-beggar，换种方式做Web3黑奴吧
 
-长话短说，缺贡献者，e-beggar，加入我们，换种方式做Web3黑奴吧！
+长话短说，缺贡献者，召唤e-beggar，加入我们！
 
 #### **勾搭方式**
 
@@ -187,3 +187,6 @@ Solv Protocol’s Bitcoin Holdings Is Ranked 7th Among Bitcoin ETFs & Ethereum
 非也，这是一个小测验，推特勾搭我之前，请将此段翻译为简体中文，私信给我。
 
 **Da Da Da, Let's have fun together...**
+
+
+
