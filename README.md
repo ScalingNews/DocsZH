@@ -1,7 +1,7 @@
 ---
 layout:
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# DocsZH | 区块链前沿资讯中文本地化
+# DocsZH | 前沿区块链技术资讯中文本地化
 
 ### Docs 中文资源
 
