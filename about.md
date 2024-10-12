@@ -52,7 +52,7 @@ layout:
 
 <figure><img src=".gitbook/assets/20241012171207.png" alt="" width="563"><figcaption></figcaption></figure>
 
-在谷歌自动翻译的结果中，任何人都能察觉的显而易见的错误，例如：
+在谷歌自动翻译的结果中，任何人都能察觉到显而易见的错误，例如：
 
 * `One Block Producer per Slot ＞ 每个区块生产者一个区块` 语义不通，这是一个病句。
 
