@@ -22,19 +22,19 @@ layout:
 
 <figure><img src=".gitbook/assets/20241012161710.png" alt="" width="563"><figcaption></figcaption></figure>
 
-遗憾的是，作为一个中文流利的华人首富，CZ出狱后的第一条推文并没有使用母语，而是发送了两个英文字母：`gm`。
+遗憾的是，作为中文流利的华人首富，CZ出狱后的第一条推文并未使用母语，且只有两个英文字母：`gm`。
 
 #### `gm`的中文意思？通用汽车？
 
-什么鬼！CZ加入了通用汽车？CZ要向Musk (特斯拉创始人) 发出挑战？CZ要颠覆新能源汽车制造业？那是不是可以叫小鹏汽车，大鹏汽车，敞篷汽车...不对，长鹏汽车！
+CZ加入了通用汽车？CZ要向[Musk](https://x.com/elonmuskhttps://x.com/elonmusk) (特斯拉创始人) 发出挑战？CZ要颠覆新能源汽车制造业？那是不是可以叫小鹏汽车，大鹏汽车，敞篷汽车...不对，长鹏汽车！
 
 #### 真相只有一个
 
-上面图片里的翻译结果，由微软翻译提供，它错误地将`gm`识别为通用汽车的缩写 (英语：General Motors，缩写为GM）。然而，喜欢在项目方discord里冲浪的Web3黑奴都知道，`gm`的习惯用法，在中文里是`早安`的意思，即`good morning`的首字母缩写。与之用法相似的，晚安`good night`可以缩写为`gn`。
+上面图片里的翻译结果，由微软翻译提供，它错误地将`gm`识别为通用汽车的缩写 (英语：General Motors，缩写为GM）。然而，喜欢在项目方discord里冲浪的Web3黑奴都知道，`gm`的习惯用法，在中文里是`早安`的意思，即`good morning`的首字母缩写。与之相似的，晚安`good night`可以缩写为`gn`。
 
 #### 从Web3黑奴的e-beggar经历说起...
 
-当你立志要成为一名Web3黑奴的时候，深夜12点，打开某项目方的协议交互页。由于不知从何下手，你找到了该项目的使用文档，例如：https://docs.ebeggar.com，映入眼帘的是满屏英文，黑夜给了你黑色的眼睛，你却用它寻找中文。此时，你的浏览器可能会提醒你，要不要将网页翻译为中文。
+当你立志成为一名Web3黑奴的时候，深夜打开某项目方的协议交互页。由于不知从何下手，你找到了该项目的使用文档，例如：https://docs.ebeggar.com，映入眼帘的是满屏英文，黑夜给了你黑色的眼睛，你却用它寻找中文。此时，你的浏览器可能会提醒你，要不要将网页翻译为中文。
 
 <figure><img src=".gitbook/assets/20241012165707.png" alt="" width="329"><figcaption></figcaption></figure>
 
@@ -42,7 +42,7 @@ layout:
 
 ### 不友好的浏览器自动翻译
 
-这里，以我们最近翻译的来自[aPriori](https://beta.rootdata.com/zh/Projects/detail/aPriori?k=OTUwMg%3D%3D)项目的技术博客为例，此处为博客节选的原文链接：[段落原文](https://0xapr.substack.com/p/unlocking-monads-potential-the-critical?open=false#%C2%A7one-block-producer-per-slot-block-space-auction)
+这里，以我们最近翻译的来自[aPriori](https://beta.rootdata.com/zh/Projects/detail/aPriori?k=OTUwMg%3D%3D)的技术博客为例，此处为博客节选的原文链接：[段落原文](https://0xapr.substack.com/p/unlocking-monads-potential-the-critical?open=false#%C2%A7one-block-producer-per-slot-block-space-auction)
 
 **英文原文：**
 
@@ -144,9 +144,9 @@ Solv Protocol’s Bitcoin Holdings Is Ranked 7th Among Bitcoin ETFs & Ethereum
 
 受限于语言环境和区块链专业的技术原语，中文用户试图了解某个协议的技术路径，未来路线，参与方式等信息是有阻碍的，自动中文翻译并不能很友好的将内容还原成协议想表达的真实意图，如同`gm`和`早安`。这可能对中文Crypto猎人造成安全隐患，甚至蒙受损失，例如：将资产质押进了DeFi，却无法自主的完成赎回操作；将资产铸造成了某种稳定币，却不了解存在价格脱锚。
 
-这些并非不可避免，几乎所有协议都会在文档或博客里详细说明和解释，内容包括但不限于：协议技术介绍，协议资产介绍，DApp功能介绍，DApp操作流程，操作风险说明等。因此，只需要将项目的文档或博客翻译为中文，相信大部分中文区Crypto猎人都会主动去了解所参与的协议，这关系着个人的资产安全。
+这些并非不可避免，几乎所有协议都会在文档或博客里详细说明和解释，内容包括但不限于：协议技术介绍，协议资产介绍，DApp功能介绍，DApp操作流程，操作风险说明等。因此，只需要将协议文档或博客翻译为中文，相信大部分中文区Crypto猎人都会主动去了解所参与的协议，这关系着个人的资产安全。
 
-以上，也是DocsZH的价值所在。
+**以上，也是DocsZH的价值所在。**
 
 ### 下强度：e-beggar，换种方式做Web3黑奴吧
 
@@ -154,7 +154,7 @@ Solv Protocol’s Bitcoin Holdings Is Ranked 7th Among Bitcoin ETFs & Ethereum
 
 #### **勾搭方式**
 
-* 推特私信我，我的推特handle：[@Scaling\_News](https://x.com/Scaling\_News)
+* 推特私信，我的推特：[@Scaling\_News](https://x.com/Scaling\_News)
 
 #### **贡献者要求**
 
@@ -186,7 +186,7 @@ Solv Protocol’s Bitcoin Holdings Is Ranked 7th Among Bitcoin ETFs & Ethereum
 
 非也，这是一个小测验，推特勾搭我之前，请将此段翻译为简体中文，私信给我。
 
-**Da Da Da, Let's have fun together...**
+**Da Da Da, Let's have fun together... by Chin.**
 
 
 
