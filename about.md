@@ -22,7 +22,7 @@ layout:
 
 <figure><img src=".gitbook/assets/20241012161710.png" alt="" width="563"><figcaption></figcaption></figure>
 
-遗憾的是，作为中文流利的华人首富，CZ出狱后的第一条推文并未使用母语，且只有两个英文字母：`gm`。
+遗憾的是，作为中文流利的华人首富，CZ出狱后的第一条推文并未使用母语，且只有两英文字母：`gm`。
 
 #### `gm`的中文意思？通用汽车？
 
@@ -182,11 +182,11 @@ Solv Protocol’s Bitcoin Holdings Is Ranked 7th Among Bitcoin ETFs & Ethereum
 * Adopting proof-of-work mechanism, distribution by contribution output.
 * We offer incentives in exchange for contributors joining. They may not be long-term companions, but they are indeed important partners.
 
-最后的**分配方案**是不是像极了项目方发的TGE文档，给你一种马上就可以Claim的错觉。
+最后的**分配方案**是不是像极了项目方的TGE文档，给你一种马上就可以claim的错觉。
 
-非也，这是一个小测验，推特勾搭我之前，请将此段翻译为简体中文，私信给我。
+非也，论e-beggar的自我养成，勾搭我之前，请将**初步分配方案**翻译为简体中文，DM给我。
 
-**Da Da Da, Let's have fun together... by Chin.**
+**Da Da Da... Let's have fun together... by Chin.**
 
 
 
