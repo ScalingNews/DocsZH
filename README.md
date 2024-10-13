@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/DocsZH banner 241013_1280-640 (1).png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -17,7 +12,7 @@ layout:
     visible: false
 ---
 
-# 致力于前沿区块链技术文档中文本地化
+# DocsZH | 前沿区块链技术文档中文本地化
 
 ### Docs 中文资源 <a href="#docs-chinese-library" id="docs-chinese-library"></a>
 
