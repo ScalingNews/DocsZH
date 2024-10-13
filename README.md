@@ -1,5 +1,10 @@
 ---
+cover: .gitbook/assets/DocsZH banner 241013_1280-640.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
