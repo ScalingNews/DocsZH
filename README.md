@@ -1,32 +1,19 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
----
+# 介绍 Monad
 
-# DocsZH | 前沿区块链技术文档中文本地化
+Monad 是与以太坊兼容的高性能 Layer1，Monad 实质性推动了区块链去中心化和扩容间博弈的有效边界。
 
-### Docs 中文资源
+Monad 在以下四个方面进行了优化，使区块链的吞吐量达到每秒 10,000 笔交易（tps）：
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Monad Docs 中文版</strong></td><td><a href="https://app.gitbook.com/s/PaHQrSOuX4vToXCmyjn9/">介绍 Monad</a></td></tr><tr><td align="center"><strong>Berachain Docs 中文版</strong> </td><td><a href="https://app.gitbook.com/s/ltBXuLzX87VmBIvzSIHJ/learn/introduction/what-is-berachain">什么是 Berachain</a></td></tr><tr><td align="center"><strong>Solv Docs 中文版</strong></td><td><a href="https://app.gitbook.com/s/fjdUISsbS8UDYAUQEGRk/welcome/introduction-solv">介绍 Solv Protocol</a></td></tr><tr><td align="center"><strong>Babylon Docs 中文版</strong><a href="https://www.docszh.com/"><br></a></td><td><a href="https://app.gitbook.com/s/SWFRW10B9ZJ8MsqhgZoh/introduction/babylon-overview">Babylon 概述</a></td></tr><tr><td align="center"><strong>Hyperlane Docs 中文版</strong><a href="https://www.docszh.com/"><br></a></td><td><a href="https://app.gitbook.com/s/LCBNpaHC8rMootw9Jrj6/get-started/intro">选择 Hyperlane</a></td></tr><tr><td align="center"><strong>Bracket Docs 中文版</strong></td><td><a href="https://app.gitbook.com/s/okwk57fSXe38XWYbBH2n/">介绍 Bracket</a></td></tr></tbody></table>
+* [MonadBFT 共识机制](technical-discussion/consensus/monadbft.md)
+* [延迟执行（Deferred Execution）](technical-discussion/consensus/deferred-execution.md)
+* [并行执行（Parallel Execution）](technical-discussion/execution/parallel-execution.md)
+* [MonadDb 数据库](technical-discussion/execution/monaddb.md)
 
+Monad 的优化解决了现有区块链的瓶颈问题，同时为应用程序开发人员（完全兼容 EVM 字节码）和用户（兼容以太坊 RPC API）保留了完全兼容性。因此，丰富的以太坊工具和应用密码学研究可以无缝接入到 Monad，同时受益于 Monad 的高吞吐量和交易规模：
 
+* 应用程序（在以太坊上构建的任何 Dapp）
+* 开发人员工具（如：Hardhat、Apeworx、Foundry）
+* 钱包（如：MetaMask）
+* 链上分析/索引工具（如：Etherscan、Dune）
 
-### Whitepaper 中文资源
-
-<table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Sahara AI 白皮书</strong></td><td><a href="https://app.gitbook.com/o/3aiEjVFke8do4hUhm8mm/s/sWLeYnus1nYBWKYFQfzJ/">Sahara AI 白皮书</a></td></tr></tbody></table>
-
-
-
-### Blog 中文资源
-
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>释放 Monad 的潜力：区块产出经济学的关键作用 | aPriori</td><td><a href="https://app.gitbook.com/s/OSs7EEWwLCe1NwYciNre/newsletter/unlocking-monads-potential-the-critical">释放 Monad 的潜力：区块产出经济学的关键作用</a></td></tr></tbody></table>
-
+Monad 客户端以性能为核心，采用 C++ 和 Rust 语言编写。下文将介绍 Monad 的主要优化及用户交互。
