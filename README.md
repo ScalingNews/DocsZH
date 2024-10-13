@@ -1,32 +1,27 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
----
+# 介绍 Solv Protocol
 
-# DocsZH | 前沿区块链技术文档中文本地化
+Solv正在创新去中心化的$BTC储备货币，通过流动性共识基础设施，释放价值万亿美元的$BTC资产潜力。通过解决$BTC流动性分散问题，创造收益机会以及合规的托管解决方案，Solv正在打造一个通往BTCFi的比特币生态门户，同时也为传统金融进入加密货币世界提供了信心，铺平了道路。
 
-### Docs 中文资源
+在Binance Labs、Blockchain Capital、Laser Digital等知名投资者的支持下，Solv协议成为安全与信任的标杆。Solv协议已通过Quantstamp、Certik、SlowMist、Salus、Secbit等领先安全公司的全面审计，确保拥有最高标准的安全性。
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Monad Docs 中文版</strong></td><td><a href="https://app.gitbook.com/s/PaHQrSOuX4vToXCmyjn9/">介绍 Monad</a></td></tr><tr><td align="center"><strong>Berachain Docs 中文版</strong> </td><td><a href="https://app.gitbook.com/s/ltBXuLzX87VmBIvzSIHJ/learn/introduction/what-is-berachain">什么是 Berachain</a></td></tr><tr><td align="center"><strong>Solv Docs 中文版</strong></td><td><a href="https://app.gitbook.com/s/fjdUISsbS8UDYAUQEGRk/welcome/introduction-solv">介绍 Solv Protocol</a></td></tr><tr><td align="center"><strong>Babylon Docs 中文版</strong><a href="https://www.docszh.com/"><br></a></td><td><a href="https://app.gitbook.com/s/SWFRW10B9ZJ8MsqhgZoh/introduction/babylon-overview">Babylon 概述</a></td></tr><tr><td align="center"><strong>Hyperlane Docs 中文版</strong><a href="https://www.docszh.com/"><br></a></td><td><a href="https://app.gitbook.com/s/LCBNpaHC8rMootw9Jrj6/get-started/intro">选择 Hyperlane</a></td></tr><tr><td align="center"><strong>Bracket Docs 中文版</strong></td><td><a href="https://app.gitbook.com/s/okwk57fSXe38XWYbBH2n/">介绍 Bracket</a></td></tr></tbody></table>
+### 投资人和审计商
 
+#### 投资人
 
+[Binance Labs](https://beta.rootdata.com/zh/Investors/detail/Binance%20Labs?k=MjI5)，[Blockchain Capital](https://beta.rootdata.com/zh/Investors/detail/Blockchain%20Capital?k=MjI2)，[Mirana Ventures](https://beta.rootdata.com/zh/Investors/detail/Mirana%20Ventures?k=MTA3MTY%3D)[Laser Digital](https://beta.rootdata.com/zh/Investors/detail/Laser%20Digital?k=MTE0NTE%3D)，[Jump Crypto](https://beta.rootdata.com/zh/Investors/detail/Jump%20Crypto?k=MTcx)[Kronos Research](https://beta.rootdata.com/zh/Projects/detail/Kronos%20Research?k=MzUxOQ%3D%3D)，[CMS Holdings](https://beta.rootdata.com/zh/Investors/detail/CMS%20Holdings?k=MjIx)，[Hashed](https://beta.rootdata.com/zh/Investors/detail/Hashed?k=MTg1)[IOSG Ventures](https://beta.rootdata.com/zh/Investors/detail/IOSG%20Ventures?k=MTcy)，[UOB Venture](https://beta.rootdata.com/zh/Investors/detail/UOB%20Venture?k=NDYw)，[gumi Cryptos](https://beta.rootdata.com/zh/Investors/detail/gumi%20Cryptos%20Capital?k=NTY5)，[Bing Ventures](https://beta.rootdata.com/zh/Investors/detail/Bing%20Ventures?k=MTE4Mzg%3D)，[Spartan Group](https://beta.rootdata.com/zh/Investors/detail/The%20Spartan%20Group?k=MTI1)，[Alliance DAO](https://beta.rootdata.com/zh/Investors/detail/Alliance%20DAO?k=MjEx)，[CMT Digital](https://beta.rootdata.com/zh/Investors/detail/CMT%20Digital?k=NTI4)
 
-### Whitepaper 中文资源
+#### 审计商
 
-<table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Sahara AI 白皮书</strong></td><td><a href="https://app.gitbook.com/o/3aiEjVFke8do4hUhm8mm/s/sWLeYnus1nYBWKYFQfzJ/">Sahara AI 白皮书</a></td></tr></tbody></table>
+[Quantstamp](https://beta.rootdata.com/zh/Projects/detail/Quantstamp?k=Mzc5OQ%3D%3D)，[CertiK](https://beta.rootdata.com/zh/Projects/detail/CertiK?k=Mzc5Nw%3D%3D)，[SlowMist](https://beta.rootdata.com/zh/Projects/detail/Slowmist?k=Mzc5OA%3D%3D)，[Salus](https://beta.rootdata.com/zh/Projects/detail/Salus%20Security?k=MzgyMA%3D%3D)，[SECBIT](https://beta.rootdata.com/zh/Projects/detail/SECBIT%20Labs?k=NjgzNg%3D%3D)
 
+### 重要链接
 
+Website: https://solv.finance
 
-### Blog 中文资源
+Twitter: https://x.com/SolvProtocol
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>释放 Monad 的潜力：区块产出经济学的关键作用 | aPriori</td><td><a href="https://app.gitbook.com/s/OSs7EEWwLCe1NwYciNre/newsletter/unlocking-monads-potential-the-critical">释放 Monad 的潜力：区块产出经济学的关键作用</a></td></tr></tbody></table>
+Discord: https://discord.com/invite/solvprotocol
 
+Telegram:https://t.me/Solv\_Protocol
+
+Medium: https://solvprotocol.medium.com
