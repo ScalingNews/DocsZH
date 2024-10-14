@@ -1,5 +1,10 @@
 ---
+cover: .gitbook/assets/DZ banner 1280-640 (1).png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: false
   description:
