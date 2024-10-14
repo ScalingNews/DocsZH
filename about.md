@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/DocsZH banner 241013_1280-640 (2).png
+cover: .gitbook/assets/ docs banner 1080.png
 coverY: 0
 layout:
   cover:
