@@ -5,14 +5,14 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: false
   pagination:
     visible: false
 ---
 
-# DocsZH | 前沿区块链技术文档中文本地化
+# DocsZH | 区块链中文图书馆
 
 ### Docs 中文资源 <a href="#docs-chinese-library" id="docs-chinese-library"></a>
 
