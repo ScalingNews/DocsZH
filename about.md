@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/DZ banner 1280-640.png
+cover: .gitbook/assets/DZ banner 547.1280.png
 coverY: 0
 layout:
   cover:
